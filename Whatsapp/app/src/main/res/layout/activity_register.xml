@@ -68,7 +68,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="10dp"/>
             <EditText
-                android:id="@+id/Emaillogin"
+                android:id="@+id/EmailRegis"
                 android:layout_width="match_parent"
                 android:layout_height="48dp"
                 android:inputType="text"
@@ -89,7 +89,7 @@
 
 
             <EditText
-                android:id="@+id/phonelogin"
+                android:id="@+id/passRegis"
                 android:layout_width="match_parent"
                 android:layout_height="48dp"
                 android:inputType="text"
@@ -100,7 +100,7 @@
                 android:layout_height="10dp"/>
 
             <Button
-                android:id="@+id/register"
+                android:id="@+id/btnregister"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="25dp"

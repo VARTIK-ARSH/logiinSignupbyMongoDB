@@ -90,7 +90,7 @@
 
 
             <EditText
-                android:id="@+id/phonelogin"
+                android:id="@+id/passlogin"
                 android:layout_width="match_parent"
                 android:layout_height="48dp"
                 android:inputType="text"
